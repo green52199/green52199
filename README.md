@@ -1,4 +1,3 @@
-<h1>Hi!</h1>
 <h2>My stack :man_technologist:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
