@@ -1,11 +1,4 @@
-<h1>Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=I+am+a +software+engineer!+;Always+learning+new+things" alt="Typing SVG" /></a></h1>
-<h3>Web, Mobile, and Full stack developer.</h3>
-
-- 💞️ Coding(); Sleep(); Eat(); Repeat();
-- 👀 I'm interested in software development and design.
-- 🌱 I'm currently improving my skills in blockchain.
- 
+<h1>Hi!</h1>
 <h2>My stack :man_technologist:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
