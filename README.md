@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=greem52199)
 
 <div>
-  <h1 align="center">Hi 👋, I'm <i><s>William</s></i></h1>
+  <h1 align="center">Hi 👋, I'm William</h1>
   <h3 align="center">I write code that runs everywhere—Even on your cat’s laptop!</h3>
 </div>
 
